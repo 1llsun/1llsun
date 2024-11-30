@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying Cybersecurity<br>🔭 I’m currently working on Steganography Using Least Bit Substitution method<br><br>
+🌱 I’m a cybersecurity student<br>🔭 I’m currently working on Steganography Using Least Bit Substitution method<br><br>
 
 
 # 💻 Tech Stack:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=1llsun&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
