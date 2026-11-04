@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Cybersecurity student<br>🔭 Currently working on Steganography Using Least Bit Substitution method<br><br>
+🌱 Cybersecurity student<br><br><br>
 
 
 # 💻 Tech Stack:
