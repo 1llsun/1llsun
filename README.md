@@ -1,16 +1,63 @@
-# 💫 About Me:
-🌱 Cybersecurity student<br><br><br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tayyab%20Ayub&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics&descAlignY=58&descSize=20" />
+</div>
 
+<div align="center">
+  <i>"Breaking things to understand how they work, then building them back securely."</i>
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1llsun&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=1llsun&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1llsun&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🕵️‍♂️ About Me
+I am a Cybersecurity student specializing in Digital Forensics and system analysis. I spend my time analyzing memory, digging through registry hives, and building automated forensic tools. When I'm not writing Python scripts to parse artifacts, I'm probably configuring Linux environments or working on graphic design.
 
----
-[![](https://visitcount.itsvg.in/api?id=1llsun&icon=2&color=13)](https://visitcount.itsvg.in)
+- 🔭 **Current Focus:** Building the *Custos Forensic Suite* (an automated evidence collector).
+- ⚙️ **Environment:** Windows, XFCE, and Tor.
+
+<br>
+
+### 🛠️ Tech Stack & Arsenal
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages</b><br><br>
+      <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Security & Systems</b><br><br>
+      <img src="https://img.shields.io/badge/Cisco-0f0c29?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tor-0f0c29?style=for-the-badge&logo=tor-project&logoColor=white" />
+      <img src="https://img.shields.io/badge/XFCE-0f0c29?style=for-the-badge&logo=xfce&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache-0f0c29?style=for-the-badge&logo=apache&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <b>Design & Productivity</b><br><br>
+      <img src="https://img.shields.io/badge/Adobe-0f0c29?style=for-the-badge&logo=adobe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-0f0c29?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer-0f0c29?style=for-the-badge&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/Notion-0f0c29?style=for-the-badge&logo=notion&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1llsun&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1llsun&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakNum=c9d1d9" width="48%" />
+</div>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1llsun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" width="50%" />
+</div>
+
+<br>
+
+### 💭 Philosophy
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
