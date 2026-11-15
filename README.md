@@ -1,18 +1,21 @@
 <div align="center">
 
-  <!-- Animated KWANGYA Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:FF2A75,100:00F0FF&height=175&section=header&text=TAYYAB%20AYUB&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%7C%20DIGITAL%20FORENSICS&descAlignY=58&descSize=16" width="100%" />
-
-  <!-- Animated Terminal Feed -->
+  <!-- Minimalist Terminal Header (No 2002 Wave Banners) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=SYNK_STATUS%3A+CONNECTED+TO+KWANGYA;DIVE_INTO+%2F%2F+VOLATILE_MEMORY_ANALYSIS;BUILDING+CUSTOS+FORENSIC+SUITE;HUNTING+BLACK_MAMBA+ANOMALIES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1200&color=F8F8F2&center=true&vCenter=true&width=680&height=55&lines=TAYYAB+AYUB+%2F%2F+1LLSUN;CYBERSECURITY+%7C+DIGITAL+FORENSICS" alt="Header" />
   </a>
 
-  <p><i>"Breaking things to understand how they work, then building them back securely."</i></p>
+  <br />
+
+  <!-- Live Console Feed -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=680&height=35&lines=root%40kwangya%3A~%24+synk+--status+connected;root%40kwangya%3A~%24+dive+--target+%2Fdev%2Fmem+%26%26+parse_hives;root%40kwangya%3A~%24+.%2Fcustos+--mode+agentless-triage;root%40kwangya%3A~%24+scan+--signature+black_mamba" alt="Console Feed" />
+  </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=1llsun&label=SYNK_COUNT&color=FF2A75&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/ACTIVE_BUILD-CUSTOS_SUITE-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Active Project" />
+    <img src="https://komarev.com/ghpvc/?username=1llsun&label=SYNK_COUNT&color=FF2A75&style=for-the-badge&labelColor=1A1B27" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/BUILD-CUSTOS_SUITE-70A5FD?style=for-the-badge&labelColor=1A1B27" alt="Custos Suite" />
+    <img src="https://img.shields.io/badge/POSTURE-ANTIFRAGILE-38BCAA?style=for-the-badge&labelColor=1A1B27" alt="Posture" />
   </p>
 
 </div>
@@ -21,12 +24,14 @@
 
 ### `01 // SYSTEM_PROFILE`
 
-I am a **Cybersecurity** student specializing in **Digital Forensics** and system-level analysis. I spend my time dissecting volatile memory, digging through Windows registry hives, and engineering automated forensic tools. When I am not writing scripts to parse artifacts, I configure lightweight Linux environments and work on interface design.
+> *"Breaking things to understand how they work, then building them back securely."*
 
-- 🔭 **Current Focus:** Building the ***Custos Forensic Suite*** — an automated Windows evidence collector and triage engine.
+I am a **Cybersecurity** student specializing in **Digital Forensics** and system-level analysis. I spend my cycles dissecting volatile RAM, parsing Windows registry hives, and engineering automated forensic acquisition tools. Away from the terminal, I configure lightweight Linux setups and build clean visual interfaces.
+
+- 🔭 **Primary Directive:** Architecting the ***Custos Forensic Suite*** — a portable, agentless Windows evidence collector and triage engine.
 - ⚙️ **Environment:** `Windows` • `XFCE` • `Tor`
-- ⚽ **Off-Screen:** Watching **Real Madrid** & **Arsenal**, diving into films, and curating playlists.
-- 🎧 **Frequency:** Heavy basslines, metallic synth, and dark-pop (*aespa*, *IVE*).
+- ⚽ **Matchday:** Real Madrid & Arsenal.
+- 🎧 **Audio & Screen:** Heavy 808 basslines, metallic hyper-synth, and morally gray thrillers.
 
 ---
 
@@ -37,27 +42,27 @@ I am a **Cybersecurity** student specializing in **Digital Forensics** and syste
     <tr>
       <th align="center" width="33%"><code>&lt;LANGUAGES /&gt;</code></th>
       <th align="center" width="33%"><code>&lt;SECURITY &amp; SYSTEMS /&gt;</code></th>
-      <th align="center" width="33%"><code>&lt;DESIGN &amp; PRODUCTIVITY /&gt;</code></th>
+      <th align="center" width="33%"><code>&lt;DESIGN &amp; WORKFLOW /&gt;</code></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Python" /><br />
-        <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FF2A75" alt="C++" /><br />
-        <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F0FF" alt="Java" />
+        <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=70A5FD" alt="Python" /><br />
+        <img src="https://img.shields.io/badge/C++-1A1B27?style=for-the-badge&logo=c%2B%2B&logoColor=FF2A75" alt="C++" /><br />
+        <img src="https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=openjdk&logoColor=38BCAA" alt="Java" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=00F0FF" alt="Cisco" /><br />
-        <img src="https://img.shields.io/badge/Tor-0D1117?style=for-the-badge&logo=tor-project&logoColor=FF2A75" alt="Tor" /><br />
-        <img src="https://img.shields.io/badge/XFCE-0D1117?style=for-the-badge&logo=xfce&logoColor=00F0FF" alt="XFCE" /><br />
-        <img src="https://img.shields.io/badge/Apache-0D1117?style=for-the-badge&logo=apache&logoColor=FF2A75" alt="Apache" />
+        <img src="https://img.shields.io/badge/Cisco-1A1B27?style=for-the-badge&logo=cisco&logoColor=70A5FD" alt="Cisco" /><br />
+        <img src="https://img.shields.io/badge/Tor-1A1B27?style=for-the-badge&logo=tor-project&logoColor=FF2A75" alt="Tor" /><br />
+        <img src="https://img.shields.io/badge/XFCE-1A1B27?style=for-the-badge&logo=xfce&logoColor=38BCAA" alt="XFCE" /><br />
+        <img src="https://img.shields.io/badge/Apache-1A1B27?style=for-the-badge&logo=apache&logoColor=FF2A75" alt="Apache" />
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Adobe-0D1117?style=for-the-badge&logo=adobe&logoColor=FF2A75" alt="Adobe" /><br />
-        <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00F0FF" alt="Figma" /><br />
-        <img src="https://img.shields.io/badge/Framer-0D1117?style=for-the-badge&logo=framer&logoColor=FF2A75" alt="Framer" /><br />
-        <img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=00F0FF" alt="Notion" />
+        <img src="https://img.shields.io/badge/Adobe-1A1B27?style=for-the-badge&logo=adobe&logoColor=FF2A75" alt="Adobe" /><br />
+        <img src="https://img.shields.io/badge/Figma-1A1B27?style=for-the-badge&logo=figma&logoColor=70A5FD" alt="Figma" /><br />
+        <img src="https://img.shields.io/badge/Framer-1A1B27?style=for-the-badge&logo=framer&logoColor=38BCAA" alt="Framer" /><br />
+        <img src="https://img.shields.io/badge/Notion-1A1B27?style=for-the-badge&logo=notion&logoColor=F8F8F2" alt="Notion" />
       </td>
     </tr>
   </tbody>
@@ -75,22 +80,11 @@ I am a **Cybersecurity** student specializing in **Digital Forensics** and syste
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1llsun&theme=tokyonight" width="49%" alt="Most Commit Language" />
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3800&pause=1000&color=FF2A75&center=true&vCenter=true&width=540&lines=%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81+BLACK_MAMBA_PROTOCOL+%2F%2F+MONITORING+%E2%96%81%E2%96%83%E2%96%85%E2%96%87%E2%96%85%E2%96%83%E2%96%81;%E2%96%83%E2%96%87%E2%96%82%E2%96%85%E2%96%88%E2%96%84%E2%96%82+ACCENDIO_SEQUENCE+%2F%2F+NEXT_LEVEL+%E2%96%82%E2%96%84%E2%96%88%E2%96%85%E2%96%82%E2%96%87%E2%96%83" alt="Telemetry Wave" />
-</div>
-
 ---
 
-### `04 // PHILOSOPHY`
+### `04 // RUNTIME_LOGS`
 
 <div align="center">
-  <br />
-  <i>"We don't believe this to be a coincidence."</i><br />
-  <b>— Jeremy S. Anderson</b>
-  <br /><br />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,55:FF2A75,100:0D1117&height=85&section=footer" width="100%" />
+  <!-- Replace YOUR_VERCEL_PROJECT with your deployed Vercel URL from Step 2 -->
+  <img src="https://YOUR_VERCEL_PROJECT.vercel.app/api/quote" width="100%" alt="Dynamic Transmission" />
 </div>
