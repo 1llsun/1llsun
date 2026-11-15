@@ -13,6 +13,7 @@ I am a Cybersecurity student specializing in Digital Forensics and system analys
 
 - 🔭 **Current Focus:** Building the *Custos Forensic Suite* (an automated evidence collector).
 - ⚙️ **Environment:** Windows, XFCE, and Tor.
+- ⚽ **Off-screen:** Watching Arsenal & Real Madrid, diving into movies, and listening to music.
 
 <br>
 
@@ -48,16 +49,12 @@ I am a Cybersecurity student specializing in Digital Forensics and system analys
 ### 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1llsun&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1llsun&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakNum=c9d1d9" width="48%" />
-</div>
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1llsun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1llsun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=c9d1d9" width="48%" />
 </div>
 
 <br>
 
 ### 💭 Philosophy
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=socrates" />
 </div>
