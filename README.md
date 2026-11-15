@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Tayyab%20Ayub&fontSize=60&fontColor=f0f0f0&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics&descAlignY=58&descSize=20" />
-</div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF2A75&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Digital+Forensics+%26+Analysis;Building+Forensics+Tools" alt="Typing SVG" />
+  </a>
+  
+  <p><i>"Breaking things to understand how they work, then building them back securely."</i></p>
 
-<div align="center">
-  <i>"Breaking things to understand how they work, then building them back securely."</i>
+  <img src="https://komarev.com/ghpvc/?username=1llsun&label=Profile%20views&color=ff2a75&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
@@ -24,23 +26,23 @@ I am a Cybersecurity student specializing in Digital Forensics and system analys
   <tr>
     <td align="center" width="33%">
       <b>Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-ff2a75?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00f0ff?style=flat-square&logo=c%2B%2B&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ff2a75?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <b>Security & Systems</b><br><br>
-      <img src="https://img.shields.io/badge/Cisco-0a0a0a?style=for-the-badge&logo=cisco&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tor-0a0a0a?style=for-the-badge&logo=tor-project&logoColor=white" />
-      <img src="https://img.shields.io/badge/XFCE-0a0a0a?style=for-the-badge&logo=xfce&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache-0a0a0a?style=for-the-badge&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco-00f0ff?style=flat-square&logo=cisco&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tor-ff2a75?style=flat-square&logo=tor-project&logoColor=white" />
+      <img src="https://img.shields.io/badge/XFCE-00f0ff?style=flat-square&logo=xfce&logoColor=black" />
+      <img src="https://img.shields.io/badge/Apache-ff2a75?style=flat-square&logo=apache&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <b>Design & Productivity</b><br><br>
-      <img src="https://img.shields.io/badge/Adobe-0a0a0a?style=for-the-badge&logo=adobe&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framer-0a0a0a?style=for-the-badge&logo=framer&logoColor=white" />
-      <img src="https://img.shields.io/badge/Notion-0a0a0a?style=for-the-badge&logo=notion&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe-00f0ff?style=flat-square&logo=adobe&logoColor=black" />
+      <img src="https://img.shields.io/badge/Figma-ff2a75?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer-00f0ff?style=flat-square&logo=framer&logoColor=black" />
+      <img src="https://img.shields.io/badge/Notion-ff2a75?style=flat-square&logo=notion&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -49,13 +51,20 @@ I am a Cybersecurity student specializing in Digital Forensics and system analys
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1llsun&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=f472b6&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1llsun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=f472b6&text_color=c9d1d9" width="48%" />
+  <!-- This card is much more reliable than the standard ones and matches the dark theme perfectly -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1llsun&theme=tokyonight" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1llsun&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1llsun&theme=tokyonight" width="49%" />
 </div>
 
 <br>
 
 ### 💭 Philosophy
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&layout=socrates" />
+  <br>
+  <i>"We don't believe this to be a coincidence."</i><br>
+  <b>— Jeremy S. Anderson</b>
+  <br><br>
 </div>
